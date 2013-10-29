@@ -1,4 +1,4 @@
-Simple-Cinema-Booking-System
+Cinema Booking System
 ============================
 
 This is a very simple console based cinema booking system I had to implement for my second semester computer science course in java. 
